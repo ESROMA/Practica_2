@@ -1,0 +1,17 @@
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\bin\Debug\netstandard2.0\Practica_2.deps.json
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\bin\Debug\netstandard2.0\Practica_2.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\bin\Debug\netstandard2.0\ref\Practica_2.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\bin\Debug\netstandard2.0\Practica_2.pdb
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Practica_2.csproj.AssemblyReference.cache
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Practica_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Practica_2.AssemblyInfoInputs.cache
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Practica_2.AssemblyInfo.cs
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Practica_2.csproj.CoreCompileInputs.cache
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Practica_2.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\ref\Practica_2.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Practica_2.pdb
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 2\Practica_2\Practica_2\Practica_2\obj\Debug\netstandard2.0\Views\tabbed.xaml.g.cs

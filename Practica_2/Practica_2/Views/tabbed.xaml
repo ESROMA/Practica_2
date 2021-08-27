@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:Practica_2.Views"
+             xmlns:local1="clr-namespace:Practica_2"
+             x:Class="Practica_2.tabbed">
+
+    <local1:MainPage/>
+    <local:HomePage/>
+</TabbedPage>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica_2.Views.HomePage"
+             Title="Home"
+             Icon="Home.png"
+             BackgroundColor="White"
+             >
+    <ContentPage.Content>
+        <Grid RowDefinitions="*,*,*" ColumnDefinitions="*,*" RowSpacing="10" ColumnSpacing="10">
+
+            <BoxView Grid.Row="0" Grid.Column="0" Color="DarkSlateBlue" />
+            <Label Grid.Row="0" Grid.Column="0" Text="Agua" TextColor="White" VerticalOptions="End" HorizontalOptions="Center" FontSize="35"/>
+            <Image Grid.Row="0" Grid.Column="0" Source="Agua.png" VerticalOptions="Center"/>
+
+            <BoxView Grid.Row="0" Grid.Column="1" Color="CornflowerBlue" />
+            <Label Grid.Row="0" Grid.Column="1" Text="Basura" TextColor="White" VerticalOptions="End" HorizontalOptions="Center" FontSize="35"/>
+            <Image Grid.Row="0" Grid.Column="1" Source="Basura.png" VerticalOptions="Center"/>
+
+            <BoxView Grid.Row="1" Grid.Column="0" Color="CadetBlue" />
+            <Label Grid.Row="1" Grid.Column="0" Text="Rueda" TextColor="White" VerticalOptions="End" HorizontalOptions="Center" FontSize="35"/>
+            <Image Grid.Row="1" Grid.Column="0" Source="Rueda.png" VerticalOptions="Center"/>
+
+            <BoxView Grid.Row="1" Grid.Column="1" Color="DarkSlateBlue" />
+            <Label Grid.Row="1" Grid.Column="1" Text="Bombillo" TextColor="White" VerticalOptions="End" HorizontalOptions="Center" FontSize="35"/>
+            <Image Grid.Row="1" Grid.Column="1" Source="Bombillo.png" VerticalOptions="Center"/>
+
+            <BoxView Grid.Row="2" Grid.Column="0" Color="SteelBlue" />
+            <Label Grid.Row="2" Grid.Column="0" Text="Arbol" TextColor="White" VerticalOptions="End" HorizontalOptions="Center" FontSize="35"/>
+            <Image Grid.Row="2" Grid.Column="0" Source="Arbol.png" VerticalOptions="Center"/>
+
+            <BoxView Grid.Row="2" Grid.Column="1" Color="LightBlue" />
+            <Label Grid.Row="2" Grid.Column="1" Text="Planeta" TextColor="White" VerticalOptions="End" HorizontalOptions="Center" FontSize="35"/>
+            <Image Grid.Row="2" Grid.Column="1" Source="Planeta.png" VerticalOptions="Center"/>
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
